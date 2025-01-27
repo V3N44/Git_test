@@ -1,0 +1,1 @@
+Can you guess what git status will output now? README.md will be displayed in green text in the section titled “Changes to be committed”. That means README.md has been added to the staging area. The file hello_world.txt will not show up because it has not been modified since it was committed.
